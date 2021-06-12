@@ -1,7 +1,7 @@
-### Seja bem-vindo ao meu perfil!
-
- Me chamo Igor, tenho 23 anos e sou apaixonado por desafio e resolução de problemas.
-
+### 👋 Seja bem-vindo ao meu perfil!
+```
+Me chamo Igor, tenho 23 anos e sou apaixonado por desafios e resolução de problemas.
+```
 **Linguagens que utilizo/estou aprendendo...**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
