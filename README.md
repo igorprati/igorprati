@@ -23,7 +23,7 @@ Me chamo Igor, tenho 23 anos e sou apaixonado por desafios e resolução de prob
 <a href="https://github.com/igorprati/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorprati&layout=compact&theme=gotham&custom_title=Most Used Languages :)" />
 </a>
-</div>
+</div> 
 
 <br>
 <!--ÍCONES SOCIAIS-->
