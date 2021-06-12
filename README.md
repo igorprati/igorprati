@@ -2,7 +2,6 @@
 ```
 Me chamo Igor, tenho 23 anos e sou apaixonado por desafios e resolução de problemas.
 ```
-![Snake animation](https://github.com/igorprati/igorprati/blob/output/github-contribution-grid-snake.svg)
 
 **Linguagens que utilizo/estou aprendendo...**  
 
@@ -13,11 +12,13 @@ Me chamo Igor, tenho 23 anos e sou apaixonado por desafios e resolução de prob
 
 
 *NOTA: As principais linguagens não indicam meu nível de habilidade ou algo parecido, é uma métrica do github de quais idiomas eu tenho mais código no github.*
+	
 
 <!--GITHUB STATUS -->
 <a href="https://github.com/igorprati/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorprati&show_icons=true&include_all_commits=true&theme=gotham&custom_title=Status de Igor Prati no Github :D" alt="Anurag's github stats" />
 </a>
+
 <!--LINGUAGENS MAIS UTILIZADAS-->
 <a href="https://github.com/igorprati/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorprati&layout=compact&theme=gotham&custom_title=Most Used Languages :)" />
@@ -35,6 +36,6 @@ Me chamo Igor, tenho 23 anos e sou apaixonado por desafios e resolução de prob
   	<!--CODEPEN-->
 	<a href = "https://codepen.io/igor-greg-rio-prati"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
 	
-	
+![Snake animation](https://github.com/igorprati/igorprati/blob/output/github-contribution-grid-snake.svg)
   
 </div>
