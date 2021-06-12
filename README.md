@@ -1,18 +1,8 @@
-### 👋 Seja bem-vindo ao meu perfil!
+### 👋 Seja bem-vindo(a) ao meu perfil!
 ```
 Me chamo Igor, tenho 23 anos e sou apaixonado por desafios e resolução de problemas.
 ```
 
-<!--ÍCONES SOCIAIS-->
-
-  <a href="https://www.linkedin.com/in/igorprati/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  	<!--INSTAGRAM-->
-  <a href = "https://www.instagram.com/igorprati/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-	<!--GMAIL -->
-  <a href = "mailto: igorprati98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  	<!--CODEPEN-->
-	<a href = "https://codepen.io/igor-greg-rio-prati"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
-	
 **Linguagens que utilizo/estou aprendendo...**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -34,7 +24,16 @@ Me chamo Igor, tenho 23 anos e sou apaixonado por desafios e resolução de prob
 </div>
 
 <br>
-
+<!--ÍCONES SOCIAIS-->
+<br>
+  <a href="https://www.linkedin.com/in/igorprati/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  	<!--INSTAGRAM-->
+  <a href = "https://www.instagram.com/igorprati/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+	<!--GMAIL -->
+  <a href = "mailto: igorprati98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  	<!--CODEPEN-->
+	<a href = "https://codepen.io/igor-greg-rio-prati"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
+	
 	
   
 </div>
