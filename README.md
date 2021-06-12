@@ -15,14 +15,10 @@ Me chamo Igor, tenho 23 anos e sou apaixonado por desafios e resolução de prob
 	
 
 <!--GITHUB STATUS -->
-<a href="https://github.com/igorprati/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorprati&show_icons=true&include_all_commits=true&theme=gotham&custom_title=Status de Igor Prati no Github :D" alt="Anurag's github stats" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorprati&show_icons=true&include_all_commits=true&theme=gotham&custom_title=Status de Igor Prati no Github :D" alt="igorprati's github stats" />
 
 <!--LINGUAGENS MAIS UTILIZADAS-->
-<a href="https://github.com/igorprati/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorprati&layout=compact&theme=gotham&custom_title=Most Used Languages :)" />
-</a>
 </div> 
 
 <br>
