@@ -15,6 +15,7 @@ Me chamo Igor, tenho 23 anos e sou apaixonado por desafios e resolução de prob
 	
 
 <!--GITHUB STATUS -->
+<div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorprati&show_icons=true&include_all_commits=true&theme=gotham&custom_title=Status de Igor Prati no Github :D" alt="igorprati's github stats" />
 
 <!--LINGUAGENS MAIS UTILIZADAS-->
