@@ -2,6 +2,7 @@
 ```
 Me chamo Igor, tenho 23 anos e sou apaixonado por desafios e resolução de problemas.
 ```
+![Snake animation](https://github.com/igorprati/igorprati/blob/output/github-contribution-grid-snake.svg)
 
 **Linguagens que utilizo/estou aprendendo...**  
 
