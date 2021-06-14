@@ -3,9 +3,9 @@
 
 <div>
 <!--GITHUB STATUS -->
- <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=igorprati&show_icons=true&include_all_commits=true&theme=gotham&custom_title=Status de Igor Prati no Github :D" alt="igorprati's github stats" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorprati&show_icons=true&include_all_commits=true&theme=gotham&custom_title=Status de Igor Prati no Github :D" alt="igorprati's github stats" />
 <!--LINGUAGENS MAIS UTILIZADAS-->
- <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorprati&layout=compact&theme=gotham&custom_title=Most Used Languages :)" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorprati&layout=compact&theme=gotham&custom_title=Most Used Languages :)" />
 </div> 
 
 <div style="display: inline_block"><br>
