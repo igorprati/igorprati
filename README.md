@@ -1,4 +1,4 @@
-### 👋 Seja bem-vindo(a) ao meu perfil!
+## 👋 Seja bem-vindo(a) ao meu perfil!
 
 **Linguagens que utilizo/estou aprendendo...**  
 
