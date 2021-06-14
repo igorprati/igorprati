@@ -1,7 +1,4 @@
 ### 👋 Seja bem-vindo(a) ao meu perfil!
-```
-Me chamo Igor, tenho 23 anos e sou apaixonado por desafios e resolução de problemas.
-```
 
 **Linguagens que utilizo/estou aprendendo...**  
 
@@ -10,9 +7,6 @@ Me chamo Igor, tenho 23 anos e sou apaixonado por desafios e resolução de prob
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code> 
 
-
-*NOTA: As principais linguagens não indicam meu nível de habilidade ou algo parecido, é uma métrica do github de quais linguagens eu tenho mais códigos no github.*
-	
 
 <!--GITHUB STATUS -->
 <div>
