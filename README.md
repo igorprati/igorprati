@@ -1,12 +1,10 @@
 ## 👋 Seja bem-vindo(a) ao meu perfil!
 
-
-<div>
-<!--GITHUB STATUS -->
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorprati&show_icons=true&include_all_commits=true&theme=gotham&custom_title=Status de Igor Prati no Github :D" alt="igorprati's github stats" />
-<!--LINGUAGENS MAIS UTILIZADAS-->
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorprati&layout=compact&theme=gotham&custom_title=Most Used Languages :)" />
-</div> 
+ <div>
+  <a href="https://github.com/igorprati">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorprati&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorprati&layout=compact&langs_count=16&theme=gotham"/>
+</div>
 
 <div style="display: inline_block"><br>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
