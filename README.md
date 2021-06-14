@@ -2,8 +2,6 @@
 
 **Linguagens que utilizo/estou aprendendo...**  
 
-<img src='https://media-exp3.licdn.com/dms/image/C4E16AQGzG2Bjpgv8cA/profile-displaybackgroundimage-shrink_200_800/0/1623651542605?e=1629331200&v=beta&t=Mjzf8z7MNnegXmnurEf51YsbosDjCz0qRyUBavP1ygw'></img>
-
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
