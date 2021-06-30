@@ -30,3 +30,9 @@
 ![Snake animation](https://github.com/igorprati/igorprati/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+<div>
+	<p align="center"> Visitas desde 30/06/2021 </p>
+	<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/igorprati/count.svg" /></p>
+	<p align="center"> Obrigado e volte sempre! :D</p>
+</div>
